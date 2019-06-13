@@ -1,3 +1,4 @@
+```
 .
 ├── README.md
 ├── index.html
@@ -15,5 +16,4 @@
         ├── manifest.2ae2e69a05c33dfc65f8.js.map
         ├── vendor.3e0b0234d8f97625cbe0.js
         └── vendor.3e0b0234d8f97625cbe0.js.map
-
-4 directories, 12 files
+```
