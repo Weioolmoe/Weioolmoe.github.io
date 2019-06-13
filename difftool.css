@@ -402,7 +402,7 @@
 
 @font-face {
     font-family: element-icons;
-    src: url(/static/fonts/element-icons.535877f.woff) format("woff"), url(/static/fonts/element-icons.732389d.ttf) format("truetype");
+    src: url(element-icons.535877f.woff) format("woff"), url(element-icons.732389d.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
 }
@@ -14393,5 +14393,3 @@
 .el-cascader-node > .el-radio .el-radio__label {
     padding-left: 0
 }
-
-/*# sourceMappingURL=app.7d04c2bbe29f5d8d148a247a89476770.css.map */
